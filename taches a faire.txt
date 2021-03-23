@@ -1,0 +1,21 @@
+
+pour projet final
+
+-mettre une page rgpd correcte
+-pop up cookies(javascript)
+-message erreur formulaire contact
+-relier a une API( connection api youtube)
+
+-ajouter une page avis complet et donc un champ avis complet dans la page jeu une colonne +  une colonne - une colonne conclusion
+
+-Ameliorer le style :
+
+    -Back
+
+- inserer les images directement a partir de l'edition du jeu
+
+
+-peut etre relier a une api (board game atlas )pour charger les images
+
+
+-responsive
